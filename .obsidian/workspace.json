@@ -11,14 +11,17 @@
             "id": "ec027eb6ac74873b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sandbox/Ideas.md",
-                "mode": "source",
-                "source": false
+                "file": "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
+                "viewState": {
+                  "x": 27.97229007889075,
+                  "y": 35.58262325307942,
+                  "zoom": -0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ideas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Prologue Plot"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sandbox/Ideas.md",
+                "file": "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ideas"
+              "title": "Backlinks for Prologue Plot"
             }
           },
           {
@@ -170,9 +173,12 @@
   },
   "active": "ec027eb6ac74873b",
   "lastOpenFiles": [
+    "README.md",
+    "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
+    "Sandbox/Plotting with Canvases",
+    "Sandbox/Ideas.md",
     "Story/01 - Prologue.md",
     "Untitled.canvas",
-    "Sandbox/Ideas.md",
     "Sandbox",
     "Characters",
     "World",

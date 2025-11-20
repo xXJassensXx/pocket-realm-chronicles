@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"b507de8362c86064","x":-248,"y":-461,"width":386,"height":138,"type":"text","text":"**The beginning of the Journey**\n\n- MC Talks about the world and his place in it."},
+		{"id":"38031c36589d4e96","x":-267,"y":-231,"width":424,"height":101,"type":"text","text":"- MC talks about how he and his companion promised to go into history together."},
+		{"id":"bfaa381e563dfffa","x":-200,"y":31,"width":290,"height":117,"type":"text","text":"- They go on a journey to concour the 12 world dungeons."},
+		{"id":"02ae53aa5315a4de","x":-224,"y":396,"width":338,"height":94,"type":"text","text":"- on floor 7 they encounter a monster that kills her (Fight scene?)"},
+		{"id":"554315a4743c8b84","x":426,"y":-413,"width":533,"height":90,"type":"text","text":"The MC is born without an Ability (the ability was not detected because is isn't from this world), which makes him a target for bullying and is seen as a disgrace by others."},
+		{"id":"ef50ea1422671eb0","x":380,"y":-184,"width":642,"height":145,"type":"text","text":"The companion is the only person that does not see the MC as cursed and was at his side since they can remember.\nShe is born with quite a powerful ability and has protected the MC his whole life.\nTogether they made a promise to go into History together by being the first to clear a world dungeon."},
+		{"id":"dc5e1ef4d9c898d8","x":321,"y":31,"width":550,"height":164,"type":"text","text":"- The 12 world dungeons are notorious for their hostile environments and challenging monsters. \n- Non have ever been cleared before by anyone.\n- they are determined to be the first ones to clear a dungeon.\n "},
+		{"id":"c31df73917e26f77","x":-768,"y":-430,"width":352,"height":246,"type":"text","text":"- the world has magic, though it is quite limited and being born with it is rare.\n- everyone is born with 1 ability that is completely unique them\n- general strength and especially the power of the ability you have determines how others see you and how they interact with you."},
+		{"id":"6db4f80268dc4d2d","x":-1256,"y":-332,"width":410,"height":148,"type":"text","text":"- additionally there are Nobles and commoners.\n- Nobles are always born with an especially powerful ability where as commoners are glad to even get an ability in the fist place."},
+		{"id":"791ac1678c5edeab","x":1022,"y":-413,"width":536,"height":88,"type":"text","text":"This does only encourage the MC to build his strength the hard way by practicing and becoming and adventurer"}
+	],
+	"edges":[
+		{"id":"853e0e4b9bcc4199","fromNode":"b507de8362c86064","fromSide":"bottom","toNode":"38031c36589d4e96","toSide":"top"},
+		{"id":"c8df0fcdbed53901","fromNode":"38031c36589d4e96","fromSide":"bottom","toNode":"bfaa381e563dfffa","toSide":"top"},
+		{"id":"f9e99fcd2d1db59c","fromNode":"bfaa381e563dfffa","fromSide":"right","toNode":"dc5e1ef4d9c898d8","toSide":"left"},
+		{"id":"3c6d3b57f8e71636","fromNode":"bfaa381e563dfffa","fromSide":"bottom","toNode":"02ae53aa5315a4de","toSide":"top"},
+		{"id":"f6db0e9d0cfe6cd6","fromNode":"b507de8362c86064","fromSide":"left","toNode":"c31df73917e26f77","toSide":"right"},
+		{"id":"a6d86849cc205311","fromNode":"c31df73917e26f77","fromSide":"left","toNode":"6db4f80268dc4d2d","toSide":"right"},
+		{"id":"415eac76389233c4","fromNode":"b507de8362c86064","fromSide":"right","toNode":"554315a4743c8b84","toSide":"left"},
+		{"id":"b70e8ab556b85ee4","fromNode":"554315a4743c8b84","fromSide":"right","toNode":"791ac1678c5edeab","toSide":"left"},
+		{"id":"d7fc5dbff82e5ae8","fromNode":"38031c36589d4e96","fromSide":"right","toNode":"ef50ea1422671eb0","toSide":"left"}
+	]
+}
