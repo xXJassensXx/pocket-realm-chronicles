@@ -1,0 +1,1 @@
+Sarah is the companion of the MC.

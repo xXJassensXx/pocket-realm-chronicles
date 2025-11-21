@@ -11,17 +11,14 @@
             "id": "ec027eb6ac74873b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
-                "viewState": {
-                  "x": 27.97229007889075,
-                  "y": 35.58262325307942,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Story/01 - Prologue.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Prologue Plot"
+              "icon": "lucide-file",
+              "title": "01 - Prologue"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
+                "file": "Story/01 - Prologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prologue Plot"
+              "title": "Backlinks for 01 - Prologue"
             }
           },
           {
@@ -174,10 +171,13 @@
   "active": "ec027eb6ac74873b",
   "lastOpenFiles": [
     "README.md",
-    "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
-    "Sandbox/Plotting with Canvases",
     "Sandbox/Ideas.md",
+    "Sandbox/Possible Concepts/IDEA - Demons.md",
     "Story/01 - Prologue.md",
+    "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
+    "Characters/Sarah.md",
+    "Sandbox/Possible Concepts",
+    "Sandbox/Plotting with Canvases",
     "Untitled.canvas",
     "Sandbox",
     "Characters",
