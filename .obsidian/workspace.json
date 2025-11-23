@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/01 - Prologue.md",
+                "file": "Story/01 - Chapter 1 - A Strange New World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Prologue"
+              "title": "01 - Chapter 1 - A Strange New World"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/01 - Prologue.md",
+                "file": "Story/01 - Chapter 1 - A Strange New World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 - Prologue"
+              "title": "Backlinks for 01 - Chapter 1 - A Strange New World"
             }
           },
           {
@@ -170,12 +170,15 @@
   },
   "active": "ec027eb6ac74873b",
   "lastOpenFiles": [
+    "Story/00 - Prologue - The Pocket Realm Chronicles.md",
+    "Story/01 - Chapter 1 - A Strange New World.md",
+    "Characters/Ellie.md",
+    "Characters/Lucien.md",
+    "Characters/Sarah.md",
     "README.md",
     "Sandbox/Ideas.md",
     "Sandbox/Possible Concepts/IDEA - Demons.md",
-    "Story/01 - Prologue.md",
     "Sandbox/Plotting with Canvases/Prologue Plot.canvas",
-    "Characters/Sarah.md",
     "Sandbox/Possible Concepts",
     "Sandbox/Plotting with Canvases",
     "Untitled.canvas",
